@@ -1,0 +1,12 @@
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\bin\Debug\OS_PROJECT.exe.config
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\bin\Debug\OS_PROJECT.exe
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\bin\Debug\OS_PROJECT.pdb
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.Form1.resources
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.Properties.Resources.resources
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.csproj.GenerateResource.cache
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.exe
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.pdb
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.Form2.resources
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.SJF.resources
+C:\Users\Phonats.pk\source\repos\OS_PROJECT\OS_PROJECT\obj\Debug\OS_PROJECT.csproj.AssemblyReference.cache
