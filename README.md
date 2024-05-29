@@ -1,0 +1,2 @@
+# Operating-System-SJF-Pre-and-Non-Pre-Implementation
+This repository contains a project of C# desktop application that shows how a SJF algorithm works, both preemptive and non preemptive. It also creates gantt chart for the algorithm and calculates average waiting and average turnaround time. Running the project is pretty simple as it does not contain a database. You can just download and run it.
